@@ -34,6 +34,7 @@
 
 ### 📫 Connect with Me
 
+- [![WordPress.org](https://img.shields.io/badge/WordPress.org-blue?logo=wordpress&logoColor=white)](https://profiles.wordpress.org/nikunj8866)
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikunj-hatkar-81878ab9/)
 - [![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nikunj.hatkar/)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hatkarnikunj_gopi/)
