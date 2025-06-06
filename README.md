@@ -15,23 +15,20 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 My GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikunj8866&show_icons=true&theme=radical" alt="nikunj8866 GitHub Stats" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunj8866&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj8866 GitHub St" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj8866&layout=compact&theme=radical" alt="Top Languages" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikunj8866&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj8866&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikunj8866&theme=monokai" alt="GitHub Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikunj8866&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -44,5 +41,7 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nikunj8866&label=Profile%20views&color=0e75b6&style=flat)
+### ⏱ My WakaTime Stats
+
+[![wakatime](https://wakatime.com/badge/user/78cb1c3d-66df-45c3-84ee-ed78b6f2b8a1.svg)](https://wakatime.com/@78cb1c3d-66df-45c3-84ee-ed78b6f2b8a1)
 
