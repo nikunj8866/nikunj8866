@@ -41,8 +41,3 @@
 - [![Gmail](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:nikunj8866@gmail.com)
 
 ---
-
-### ⏱ My WakaTime Stats
-
-[![wakatime](https://wakatime.com/badge/user/78cb1c3d-66df-45c3-84ee-ed78b6f2b8a1.svg)](https://wakatime.com/@78cb1c3d-66df-45c3-84ee-ed78b6f2b8a1)
-
